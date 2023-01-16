@@ -15,7 +15,7 @@ def is_enabled(value, default):
 class script(object):
     HOME_BUTTONURL_UPDATES = 'https://t.me/unique_coders_x'
     START_TXT = """𝐇𝐞𝐥𝐥𝐨 {} 👋,
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>\n
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/Movie_search_hex_bot>Aadhya</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>\n
 \nEɴᴛᴇʀ Mᴏᴠɪᴇ Nᴀᴍᴇ ﹠ Wᴀɪᴛ Fᴇᴡ sᴇᴄᴏɴᴅs 😊\n\n
 Bᴏᴛ Dᴇᴠʟᴏᴘᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ M4U Vɪᴅᴇᴏ\n\n👇ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʙᴇʟᴏᴡ👇"""
 

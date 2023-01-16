@@ -9,7 +9,7 @@ def is_enabled(value, default):
         return False
     else:
         return default
-    
+
 
 class script(object):
     HOME_BUTTONURL_UPDATES = 'https://t.me/unique_coders_x'

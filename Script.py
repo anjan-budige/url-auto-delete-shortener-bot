@@ -17,15 +17,15 @@ class script(object):
     START_TXT = """𝐇𝐞𝐥𝐥𝐨 {} 👋,
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/Movie_search_hex_bot>Aadhya</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>\n
 \nEɴᴛᴇʀ Mᴏᴠɪᴇ Nᴀᴍᴇ ﹠ Wᴀɪᴛ Fᴇᴡ sᴇᴄᴏɴᴅs 😊\n\n
-Bᴏᴛ Dᴇᴠʟᴏᴘᴇᴅ Wɪᴛʜ Lᴏᴠᴇ Bʏ M4U Vɪᴅᴇᴏ\n\n👇ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʙᴇʟᴏᴡ👇"""
+Bᴏᴛ Dᴇᴠʟᴏᴘᴇᴅ Wɪᴛʜ ❤️ Lᴏᴠᴇ Bʏ M4U Vɪᴅᴇᴏ\n\n👇ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʙᴇʟᴏᴡ👇"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Search_zone_bot><b>Search Bot</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/GreyMatter_Owner><b>GreyMatter</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/unique_coders_x><b>Aadhya</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://GitHub.com/anjan-budige><b>Altruist</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/GreyMatter_Bots><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/unique_coders_x><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
